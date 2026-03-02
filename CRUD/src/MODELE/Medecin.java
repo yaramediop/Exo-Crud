@@ -1,9 +1,9 @@
 package MODELE;
 
 public class Medecin {
-PRIVATE int id;
-PRIVATE String nom;
-PUBLIC Medecin(int id, String nom) {
+private int id;
+private String nom;
+public Medecin(int id, String nom) {
 this.id = id;
 this.nom = nom;
 
